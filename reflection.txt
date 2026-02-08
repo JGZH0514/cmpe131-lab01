@@ -1,0 +1,1 @@
+Branches are a powerful and safe way for a team of software engineers to collaborate on a single project because they allow software engineers to work on adding new features on an existing code base without touching the original code. This can prevent problems such as the code no longer working after integrating a new feature. 
